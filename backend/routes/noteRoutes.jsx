@@ -23,5 +23,5 @@ router.delete("/:id", (req, res) => {
 router.patch("/:id", (req, res) => {
   res.json({ mssg: "updating a note" });
 });
-
+console.log("haha");
 module.exports = router;
