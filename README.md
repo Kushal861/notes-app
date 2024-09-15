@@ -1,1 +1,1 @@
-# react-practice
+# notes-app
